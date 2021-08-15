@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">GeoQuiz</string>
+  <string name="correct_button">Correct</string>
+  <string name="incorrect_button">Incorrect</string>
+  <string name="correct_answer">your answer is right.</string>
+  <string name="incorrect_answer">your answer is wrong.</string>
+  <string name="next_question">next question</string>
+  <string name="prev_question">prev question</string>
+
+
+  <string name="question_one">Beijing is the capital of china.</string>
+  <string name="question_two">moon can light.</string>
+  <string name="question_three">people is divided male and female.</string>
+
+  <string name="warning_text">Are you sure you want to do this?</string>
+  <string name="show_answer_button">Show Answer</string>
+  <string name="cheat_button">Cheat!</string>
+  <string name="judgement_toast">Cheating is wrong.</string>
+</resources>
